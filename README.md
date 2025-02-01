@@ -6,8 +6,7 @@
 - Databases
 
 ## Overview
-For this project, I analyzed the operational aspects of taxi services in Chicago, focusing on the efficiency of taxi distribution among various cab companies and the impact of weather conditions on taxi operations. The primary goal was to understand the adequacy of taxi availability and explore any correlation between weather patterns and taxi trips.
-
+For this project, I analyzed the operational aspects of taxi services, focusing on the efficiency of taxi distribution among various cab companies and the impact of weather conditions on taxi operations. 
 This project required me to use the console to access a remote server. First, I worked with files and directories and then with a taxi service's database.
 
 ## Tasks 
